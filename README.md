@@ -133,8 +133,8 @@ Here are some ideas to get you started:
 ## My Mobile Projects
 
 <p float="left">
-  <a href="[https://expo.dev/artifacts/eas/9eBL17Nb1Sr3Q7hqg9PZdt.aab](https://expo.dev/@priscil/NavApp?serviceType=classic&distribution=expo-go)"><img src="https://user-images.githubusercontent.com/112545168/234266544-af157af9-c104-4b50-98e6-9380fa31a613.png" alt="Airbnb" width="250" height="150" /></a>&nbsp;&nbsp;&nbsp;
-  <a href"https://expo.dev/@priscil/ImdbApp?serviceType=classic&distribution=expo-go"><img src="https://user-images.githubusercontent.com/112545168/234266671-ed95d9fb-c418-425f-8c8c-30324ad03ea5.png" alt="Imdb" width="250" height="150" /></a>
+  <a href="[exp://exp.host/@priscil/NavApp?release-channel=default](https://expo.dev/@priscil/NavApp?serviceType=classic&distribution=expo-go)"><img src="https://user-images.githubusercontent.com/112545168/234266544-af157af9-c104-4b50-98e6-9380fa31a613.png" alt="Airbnb" width="250" height="150" /></a>&nbsp;&nbsp;&nbsp;
+  <a href"[https://expo.dev/@priscil/ImdbApp?serviceType=classic&distribution=expo-go](https://expo.dev/@priscil/NavApp?serviceType=classic&distribution=expo-go)"><img src="https://user-images.githubusercontent.com/112545168/234266671-ed95d9fb-c418-425f-8c8c-30324ad03ea5.png" alt="Imdb" width="250" height="150" /></a>
 </p>
 
 
