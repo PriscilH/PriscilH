@@ -115,6 +115,10 @@ Here are some ideas to get you started:
         <img src="https://user-images.githubusercontent.com/112545168/234230418-567e4699-116f-4fcd-9728-494f4e0364db.png" width="48" height="48" alt="Cloudinary" />
       <br>Cloudinary
     </td>
+    <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/112545168/234250765-3a28d7bd-b8cf-4ce8-b572-c28feb9ab1f0.png" width="60" height="20" alt="Axios" />
+      <br>Axios
+    </td>
  </tr>
 </table>
 
