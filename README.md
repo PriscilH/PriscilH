@@ -130,15 +130,12 @@ Here are some ideas to get you started:
 
 ## My Web Projects
                                                                                                                               
-<p float="left">
-<img src="https://user-images.githubusercontent.com/112545168/234257944-b09e2401-7786-44cf-86ae-3dce474b4445.gif" alt="Demo-Vinted" width="450" height="250" />&nbsp;&nbsp;&nbsp;
-<img src="https://user-images.githubusercontent.com/112545168/234260902-6a46d48e-857f-4804-856a-43ef4b3181c1.gif" alt="Demo-Marvel" width="450" height="250" />
-</p>
+<img src="https://user-images.githubusercontent.com/112545168/234257944-b09e2401-7786-44cf-86ae-3dce474b4445.gif" alt="Demo-Vinted" width="450" height="250" />&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/112545168/234260902-6a46d48e-857f-4804-856a-43ef4b3181c1.gif" alt="Demo-Marvel" width="450" height="250" />
 
 <img src="https://user-images.githubusercontent.com/112545168/234263216-9ca91645-96a0-491f-b567-44dd6b52f101.gif" alt="Demo-Deliveroo" width="450" height="250" />&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/112545168/234265019-5047880e-a159-4b89-a5ae-26f801c9f327.gif" alt="Demo-Tripadvisor" width="450" height="250" />
 
 ## My Mobile Projects
-
+<img src="https://user-images.githubusercontent.com/112545168/235887665-e1431ff1-e4b9-4314-8bd4-6ebd6da5cabb.gif" alt="Demo-Airbnb" width="250" height="400" />
 <p float="left">
   <img src="https://user-images.githubusercontent.com/112545168/234266544-af157af9-c104-4b50-98e6-9380fa31a613.png" alt="Airbnb" width="250" height="150" />&nbsp;&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/112545168/234266671-ed95d9fb-c418-425f-8c8c-30324ad03ea5.png" alt="Imdb" width="250" height="150" />
