@@ -123,6 +123,14 @@ Here are some ideas to get you started:
         <img src="https://www.drupal.org/files/project-images/font_awesome_logo.png" width="50" height="50" alt="Font Awesome" />
       <br>Font Awesome
     </td>
+     <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" width="55" height="48" alt="Bootstrap" />
+      <br>Bootstrap
+    </td>   
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="65" height="65" alt="Redux" />
+      <br>Redux
+    </td> 
  </tr>
 </table>
 
