@@ -142,11 +142,18 @@ Source code of my projects available upon request/ Code source de mes projets di
 <img src="https://user-images.githubusercontent.com/112545168/234263216-9ca91645-96a0-491f-b567-44dd6b52f101.gif" alt="Demo-Deliveroo" width="450" height="250" />&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/112545168/234265019-5047880e-a159-4b89-a5ae-26f801c9f327.gif" alt="Demo-Tripadvisor" width="450" height="250" />
 
 ## My Mobile Projects
-<img src="https://user-images.githubusercontent.com/112545168/235887665-e1431ff1-e4b9-4314-8bd4-6ebd6da5cabb.gif" alt="Demo-Airbnb" width="250" height="400" />
+<img src="https://user-images.githubusercontent.com/112545168/235887665-e1431ff1-e4b9-4314-8bd4-6ebd6da5cabb.gif" alt="Demo-Airbnb" width="250" height="400" 
+/>&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/PriscilH/PriscilH/assets/112545168/f2561b2c-a745-44b0-9335-9c6590ed3267" alt="Demo-Tesla" width="200" height="400"/>
 <p float="left">
   <img src="https://user-images.githubusercontent.com/112545168/234266544-af157af9-c104-4b50-98e6-9380fa31a613.png" alt="Airbnb" width="250" height="150" />&nbsp;&nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/112545168/234266671-ed95d9fb-c418-425f-8c8c-30324ad03ea5.png" alt="Imdb" width="250" height="150" />
+  <img src="https://user-images.githubusercontent.com/112545168/234266671-ed95d9fb-c418-425f-8c8c-30324ad03ea5.png" alt="Imdb" width="250" height="150" 
+/>&nbsp;&nbsp;&nbsp;
+   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Tesla_logo.png" alt="Tesla" width="250" height="150"/>
 </p>
+
+"">
+
 <p float="left">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://expo.dev/@priscil/NavApp?serviceType=classic&distribution=expo-go">Lien expo Airbnb</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://expo.dev/@priscil/ImdbApp?serviceType=classic&distribution=expo-go">Lien expo Imdb</a>
