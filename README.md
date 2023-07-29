@@ -20,7 +20,7 @@ Here are some ideas to get you started:
    as well as a clone of the Tesla mobile application with React native.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    
-🤓 I’m currently learning Redux, Next js, Typescript, Jest, PWA, Adobe XD, Docker. 
+🤓 I’m currently learning Redux, Next js, Typescript, Jest, PWA, Docker, Prisma. 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ## 💻 Tech Stack:
@@ -130,7 +130,7 @@ Here are some ideas to get you started:
       <br>Redux
     </td> 
     <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1024px-Adobe_XD_CC_icon.svg.png?20210729021535" width="65" height="65" alt="Redux" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1024px-Adobe_XD_CC_icon.svg.png?20210729021535" width="48" height="48" alt="Adobe xD" />
       <br>Adobe XD
     </td> 
  </tr>
