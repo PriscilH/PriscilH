@@ -129,6 +129,10 @@ Here are some ideas to get you started:
         <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="65" height="65" alt="Redux" />
       <br>Redux
     </td> 
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1024px-Adobe_XD_CC_icon.svg.png?20210729021535" width="65" height="65" alt="Redux" />
+      <br>Adobe XD
+    </td> 
  </tr>
 </table>
 
