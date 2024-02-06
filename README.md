@@ -134,7 +134,7 @@ Here are some ideas to get you started:
       <br>Adobe XD
     </td> 
     <td align="center" width="96">
-        <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1024px-Adobe_XD_CC_icon.svg.png?20210729021535](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F94783%2Fpuppeteer&psig=AOvVaw1uHTPysgR9_Ik0fFen-m-_&ust=1707303568583000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPj3ycfHloQDFQAAAAAdAAAAABAE)" width="48" height="48" alt="Adobe xD" />
+        <img src="https://www.svgrepo.com/show/354228/puppeteer.svg" width="65" height="65" alt="Puppeteer" />
       <br>Puppeteer
     </td> 
  </tr>
