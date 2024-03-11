@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 💫 About Me:
-⛩️ Currently, I'm working on an E-commerce project using React and Redux,  
-   as well as a clone of the Tesla mobile application with React native.
+⛩️ Currently, I'm working on an web-scrapping project using Puppeteer,  
+   as well as a project inspired by the design of the VNB website, built fullstack with React.js, Node.js, and MongoDB.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    
-🤓 I’m currently learning Redux, Next js, Typescript, Jest, PWA, Docker, Prisma. 
+🤓 I’m currently learning Redux, Next js, Typescript, Jest, PWA, Docker, Prisma, PHP, Symfony. 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ## 💻 Tech Stack:
