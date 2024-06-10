@@ -164,9 +164,3 @@ Source code of my projects available upon request/ Code source de mes projets di
 
 
 
-
-<p float="left">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://expo.dev/@priscil/NavApp?serviceType=classic&distribution=expo-go">Lien expo Airbnb</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://expo.dev/@priscil/ImdbApp?serviceType=classic&distribution=expo-go">Lien expo Imdb</a>
-</p>
-
