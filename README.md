@@ -20,7 +20,7 @@ Here are some ideas to get you started:
    as well as a project inspired by the design of the VNB website, built fullstack with React.js, Node.js, and MongoDB.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    
-🤓 I’m currently learning Redux, Next js, Typescript, Jest, PWA, Docker, Prisma, PHP, Symfony. 
+🤓 I’m currently learning Java, AWS, PWA, Docker, Prisma, PHP, Symfony. 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ## 💻 Tech Stack:
