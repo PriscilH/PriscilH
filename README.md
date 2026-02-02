@@ -25,10 +25,28 @@ J’ai travaillé sur des projets en conditions réelles, notamment :
 - une plateforme de jeux interactifs (PWA) utilisée dans des lieux physiques (Jeego)
 - plusieurs applications React, React Native et Node.js 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 J’aime concevoir des interfaces claires et maintenables,
 les connecter à des APIs robustes, et réfléchir au produit dans son ensemble :
 UX, performance et évolutivité.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+🚀 Ce que je fais
+
+- Développement d’applications web et mobiles modernes
+- Travail frontend et backend (fullstack)
+- Intégration d’APIs réelles, authentification, gestion des données et paiements
+- Conception d’interfaces orientées utilisateur
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+🌱 En ce moment
+
+- Approfondissement des notions d’architecture applicative et de déploiement
+- Découverte et pratique des sujets DevOps (Docker, PWA, environnements cloud)
+- Développement de nouveaux projets orientés dashboard et IA
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 ## 💻 Tech Stack:
 
 <table>
@@ -150,8 +168,20 @@ UX, performance et évolutivité.
 
 ## My Web Projects
                                                                                                                               
-Source code of my projects available upon request/ Code source de mes projets disponible sur demande&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                                                                                                                                                                      <img src="https://user-images.githubusercontent.com/112545168/234257944-b09e2401-7786-44cf-86ae-3dce474b4445.gif" alt="Demo-Vinted" width="450" height="250" /><img src="https://user-images.githubusercontent.com/112545168/234260902-6a46d48e-857f-4804-856a-43ef4b3181c1.gif" alt="Demo-Marvel" width="450" height="250" />
+Mes principaux projets sont présentés sur mon portfolio :
+👉 https://portfolio-priscilla-humeau.netlify.app
+
+Ils incluent :
+- des applications web et mobiles fullstack
+- des projets professionnels (startup & agence)
+- des projets personnels orientés React et APIs
+
+Certains dépôts sont privés pour des raisons de confidentialité.
+📌 Code source disponible sur demande / Source code of my projects available upon request
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://user-images.githubusercontent.com/112545168/234257944-b09e2401-7786-44cf-86ae-3dce474b4445.gif" alt="Demo-Vinted" width="450" height="250" /><img src="https://user-images.githubusercontent.com/112545168/234260902-6a46d48e-857f-4804-856a-43ef4b3181c1.gif" alt="Demo-Marvel" width="450" height="250" />
 
 <img src="https://user-images.githubusercontent.com/112545168/234263216-9ca91645-96a0-491f-b567-44dd6b52f101.gif" alt="Demo-Deliveroo" width="450" height="250" />&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/112545168/234265019-5047880e-a159-4b89-a5ae-26f801c9f327.gif" alt="Demo-Tripadvisor" width="450" height="250" />
 
