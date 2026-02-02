@@ -16,12 +16,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 💫 About Me:
-⛩️ Currently, I'm working on an web-scrapping project using Puppeteer,  
-   as well as a project inspired by the design of the VNB website, built fullstack with React.js, Node.js, and MongoDB.
+⛩️ Développeuse fullstack web et mobile avec une expérience sur des projets concrets,
+allant de plateformes web interactives à des applications fullstack orientées métier.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    
-🤓 I’m currently learning Java, AWS, PWA, Docker, Prisma, PHP, Symfony. 
+J’ai travaillé sur des projets en conditions réelles, notamment :
+- une plateforme web & mobile fullstack pour la gestion des services à domicile (Domisimpli)
+- une plateforme de jeux interactifs (PWA) utilisée dans des lieux physiques (Jeego)
+- plusieurs applications React, React Native et Node.js 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+J’aime concevoir des interfaces claires et maintenables,
+les connecter à des APIs robustes, et réfléchir au produit dans son ensemble :
+UX, performance et évolutivité.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ## 💻 Tech Stack:
 
